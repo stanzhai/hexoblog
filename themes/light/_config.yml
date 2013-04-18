@@ -1,0 +1,23 @@
+menu:
+  Home: /
+  Archives: /archives
+
+widgets: 
+- search
+- category
+- tag
+
+excerpt_link: 阅读全文
+
+twitter:
+  username:
+  show_replies: false
+  tweet_count: 5
+
+addthis:
+  enable: true
+
+fancybox: true
+
+google_analytics:
+rss:
