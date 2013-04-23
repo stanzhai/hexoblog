@@ -1,6 +1,6 @@
 ﻿title: Linux vi开发配置
 date: 2013-04-06
-categories: 学习
+categories: [学习, 置顶]
 tags: [Linux, vi]
 ---
 

@@ -1,6 +1,6 @@
 ﻿title: 零碎点
 date: 2013-01-31
-categories: 学习
+categories: [学习, 置顶]
 tags: []
 ---
 
