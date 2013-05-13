@@ -1,6 +1,7 @@
 menu:
-  Home: /
   Archives: /archives
+  Projects: /projects
+  About: /about
   GitHub: https://github.com/stanzhai
 
 widgets: 
