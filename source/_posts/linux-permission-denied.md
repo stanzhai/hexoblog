@@ -1,6 +1,6 @@
 title: linux permission denied的奇怪问题
 date: 2013-05-06 15:04:30
-categories: [学习, 问题修复]
+categories: 问题修复
 tags: linux
 ---
 

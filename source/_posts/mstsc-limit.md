@@ -20,7 +20,7 @@ Win2003,远程登陆退出的时候没有点击“注销”，导致有多个用
 
 参数说明如下：
 
-![](images/mstsc.png)
+![](/images/mstsc.png)
 
 
 
