@@ -1,7 +1,7 @@
 title: MongoDB 删除document中的key
 date: 2013-05-08 13:47:07
 categories: 学习
-tags:
+tags: MongoDB
 ---
 
 ## 需求
