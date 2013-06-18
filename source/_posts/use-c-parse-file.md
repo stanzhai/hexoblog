@@ -1,7 +1,7 @@
 ﻿title: 使用C语言解析文本文件
 date: 2013-03-31
 categories: 学习
-tags: [C语言]
+tags: [C]
 ---
 
 ## 起因
