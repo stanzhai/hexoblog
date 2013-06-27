@@ -58,3 +58,11 @@ Markdown转换工具，Pandoc出书用的。
 
 * [ACE](http://ace.ajax.org/#nav=about)
 * CodeMirror
+
+**应用程序打包**
+
+* Enigma Virtual Box（将exe，dll等封装成一个可执行程序）
+
+**简单教程制作**
+
+LICEcap
