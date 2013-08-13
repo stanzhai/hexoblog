@@ -1,4 +1,4 @@
-title: cubieboard 编译nodejs 0.10.5
+title: cubieboard 编译nodejs 0.10.15
 date: 2013-07-28 00:17:59
 categories: 
 tags: cubieboard2
