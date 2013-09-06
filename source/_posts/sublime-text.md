@@ -46,3 +46,4 @@ tags: sublime text
 * MarkdownPreview，以html的形式预览markdown标签
 * DocBlockr，自动补全注释，在function上一行输入/**，然后按Tab就自动补全注释
 * PlainTasks，任务管理，支持通过快捷键来添加任务、标记完成、归档，支持添加标签等等功能
+* Alignment，代码对齐，尤其是对C++的程序员较为有用，按照=自动左右对其，快捷键ctrl+alt+A
