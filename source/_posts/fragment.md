@@ -56,6 +56,7 @@ Markdown转换工具，Pandoc出书用的。
 
 * netz:免费的 .NET 可执行文件压缩工具
 * ILSpy:开源.net程序反编译工具
+* Javascript.NET：很不错的js执行引擎，对v8做了封装
 
 **消息队列**
 
