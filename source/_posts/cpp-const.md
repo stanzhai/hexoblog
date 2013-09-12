@@ -45,11 +45,18 @@ const int *a;
 int *const a;
 ```
 
-** 允许把非const对象的地址，赋值给const对象的指针，如：
+** 允许把非const对象的地址，赋值给const对象的指针，如：**
 
 ```
 double dval = 3.14;
 const double *cptr = &dval;   // 操作是ok的，但是不能通过cptr来修改dval的值
+```
+
+**不允许将指向const对象的指针赋值给指向普通对象的指针**
+
+```
+const int *a = &i;
+int *b = a;         // error， a指向const int类型，其指向的值不允许被修改，因此赋值会产生错误。
 ```
 
 ## const成员函数（常量成员函数）
