@@ -1,5 +1,5 @@
-date: 2013-08-27 18:10:51.896
-argv: node C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\bin\hexo generate
+date: 2013-09-23 20:42:44.809
+argv: c:\Program Files\nodejs\node.exe c:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\bin\hexo generate
 os: Windows_NT 6.1.7601 win32 x64
 version:
   hexo: 2.0.2
@@ -13,379 +13,663 @@ version:
   openssl: 1.0.1e
 ---
 
-[debug] 18:10:50.414 Configuration file load successfully
-[debug] 18:10:50.416 Version info checked successfully
-[debug] 18:10:50.803 Theme layout loaded
-[debug] 18:10:50.821 Theme configuration loaded
-[debug] 18:10:50.854 Theme source loaded
-[debug] 18:10:50.854 Processed: CNAME
-[debug] 18:10:50.855 Processed: favicon.png
-[debug] 18:10:50.857 Theme i18n loaded
-[debug] 18:10:50.865 Processed: images/404caring.png
-[debug] 18:10:50.865 Processed: images/aria-yaaw.png
-[debug] 18:10:50.865 Processed: images/cubie-mongodb.png
-[debug] 18:10:50.865 Processed: images/eclipse_error.png
-[debug] 18:10:50.866 Processed: images/endian.png
-[debug] 18:10:50.866 Processed: images/favicon.ico
-[debug] 18:10:50.866 Processed: images/mstsc.png
-[debug] 18:10:50.867 Processed: images/stack-top.png
-[debug] 18:10:50.867 Processed: images/teamviewer_error.png
-[debug] 18:10:50.867 Processed: images/vi.png
-[debug] 18:10:50.867 Processed: images/xmlrpc.png
-[debug] 18:10:50.868 Processed: images/存储器.gif
-[debug] 18:10:50.868 Processed: images/me/photo.jpg
-[debug] 18:10:50.868 Processed: images/project/fourchess.jpg
-[debug] 18:10:50.868 Processed: images/project/fourchess_eat.jpg
-[debug] 18:10:50.869 Processed: images/project/Html2Article.png
-[debug] 18:10:50.888 Processed: 404.html
-[debug] 18:10:50.895 Processed: about/index.md
-[debug] 18:10:51.247 Processed: projects/index.md
-[debug] 18:10:51.249 Processed: _posts/about-product.md
-[debug] 18:10:51.251 Processed: _posts/about-requirement.md
-[debug] 18:10:51.254 Processed: _posts/after-install-centos.md
-[debug] 18:10:51.255 Processed: _posts/assembly-base.md
-[debug] 18:10:51.257 Processed: _posts/assembly-register.md
-[debug] 18:10:51.258 Processed: _posts/background-thread.md
-[debug] 18:10:51.259 Processed: _posts/big-endian-and-little-endian.md
-[debug] 18:10:51.260 Processed: _posts/blogml.md
-[debug] 18:10:51.267 Processed: _posts/c-handle-sql-server.md
-[debug] 18:10:51.268 Processed: _posts/c-memory-alloc.md
-[debug] 18:10:51.269 Processed: _posts/c-where-to-define-var.md
-[debug] 18:10:51.270 Processed: _posts/can-not-push-rep-to-heroku.md
-[debug] 18:10:51.271 Processed: _posts/cdn.md
-[debug] 18:10:51.272 Processed: _posts/charset-encoding.md
-[debug] 18:10:51.274 Processed: _posts/chosen.md
-[debug] 18:10:51.275 Processed: _posts/cmmi.md
-[debug] 18:10:51.276 Processed: _posts/cpp-const.md
-[debug] 18:10:51.278 Processed: _posts/csharp-build-xmlrpc-server-without-iis.md
-[debug] 18:10:51.283 Processed: _posts/csharp-code-review.md
-[debug] 18:10:51.285 Processed: _posts/csharp-forcing-free-memory.md
-[debug] 18:10:51.286 Processed: _posts/csharp-gettime.md
-[debug] 18:10:51.287 Processed: _posts/csharp-handle-close-event.md
-[debug] 18:10:51.288 Processed: _posts/csharp-read-data-in-multithread-safely.md
-[debug] 18:10:51.289 Processed: _posts/csharp-unhandled-exception.md
-[debug] 18:10:51.290 Processed: _posts/csharp-use-synchronizationcontext-update-ui-in-multithreading.md
-[debug] 18:10:51.291 Processed: _posts/cubieboard-as-download-server.md
-[debug] 18:10:51.292 Processed: _posts/cubieboard-compile-nodejs.md
-[debug] 18:10:51.293 Processed: _posts/cubieboard-run-mongodb.md
-[debug] 18:10:51.294 Processed: _posts/cubieboard-wifi-config.md
-[debug] 18:10:51.295 Processed: _posts/da-gong-si-you-du.md
-[debug] 18:10:51.296 Processed: _posts/debug-nodejs-app.md
-[debug] 18:10:51.298 Processed: _posts/debug-program-with-gdb.md
-[debug] 18:10:51.300 Processed: _posts/delegate-to-an-instance-method-cannot-have-null-this.md
-[debug] 18:10:51.304 Processed: _posts/disable-log4net-log.md
-[debug] 18:10:51.305 Processed: _posts/download-picture-using-httpwebrequest.md
-[debug] 18:10:51.306 Processed: _posts/eclipse-error.md
-[debug] 18:10:51.308 Processed: _posts/error-while-loading-shared-libraries.md
-[debug] 18:10:51.309 Processed: _posts/excellence-and-normal.md
-[debug] 18:10:51.310 Processed: _posts/find-your-place.md
-[debug] 18:10:51.310 Processed: _posts/folklore.md
-[debug] 18:10:51.312 Processed: _posts/fragment.md
-[debug] 18:10:51.319 Processed: _posts/game-engine.md
-[debug] 18:10:51.322 Processed: _posts/git-pull-error.md
-[debug] 18:10:51.324 Processed: _posts/how-to-close-screen-and-lock-pc.md
-[debug] 18:10:51.326 Processed: _posts/htmlagilitypack-cannot-get-form-innerhtml.md
-[debug] 18:10:51.327 Processed: _posts/httpwebrequest-timeout-exception.md
-[debug] 18:10:51.328 Processed: _posts/importance-of-prerequisites.md
-[debug] 18:10:51.329 Processed: _posts/insert-data-into-sql-server-use-table-value.md
-[debug] 18:10:51.333 Processed: _posts/install-pip.md
-[debug] 18:10:51.336 Processed: _posts/install-redmine.md
-[debug] 18:10:51.342 Processed: _posts/install-skype-on-centos.md
-[debug] 18:10:51.346 Processed: _posts/jekyll-2-hexo.md
-[debug] 18:10:51.350 Processed: _posts/jekyll-encoding-problem.md
-[debug] 18:10:51.351 Processed: _posts/js-make-regex.md
-[debug] 18:10:51.352 Processed: _posts/learn-programming.md
-[debug] 18:10:51.353 Processed: _posts/learn-sql.md
-[debug] 18:10:51.361 Processed: _posts/linq-executecommand.md
-[debug] 18:10:51.363 Processed: _posts/linux-background-job.md
-[debug] 18:10:51.364 Processed: _posts/linux-config-samba-to-share-files.md
-[debug] 18:10:51.365 Processed: _posts/linux-nohup.md
-[debug] 18:10:51.366 Processed: _posts/linux-permission-denied.md
-[debug] 18:10:51.373 Processed: _posts/linux-vi-settings.md
-[debug] 18:10:51.377 Processed: _posts/linux-welcome.md
-[debug] 18:10:51.384 Processed: _posts/merge-data-table.md
-[debug] 18:10:51.385 Processed: _posts/mingw-cygwin.md
-[debug] 18:10:51.386 Processed: _posts/mongodb-copy-data-between-collections.md
-[debug] 18:10:51.387 Processed: _posts/mongodb-datetime.md
-[debug] 18:10:51.389 Processed: _posts/mongodb-delete-document-key.md
-[debug] 18:10:51.390 Processed: _posts/mstsc-limit.md
-[debug] 18:10:51.391 Processed: _posts/nodejs-deploy-code.md
-[debug] 18:10:51.392 Processed: _posts/predefined-macros.md
-[debug] 18:10:51.393 Processed: _posts/nohup-do-not-output-logfile.md
-[debug] 18:10:51.395 Processed: _posts/redis-db.md
-[debug] 18:10:51.396 Processed: _posts/regex-replace-html-property.md
-[debug] 18:10:51.403 Processed: _posts/regex.md
-[debug] 18:10:51.410 Processed: _posts/run-teamviewer8-error-on-centos.md
-[debug] 18:10:51.412 Processed: _posts/sdn-and-openflow.md
-[debug] 18:10:51.413 Processed: _posts/socket-send-recv.md
-[debug] 18:10:51.414 Processed: _posts/solr-add-ikanalyzer-support.md
-[debug] 18:10:51.415 Processed: _posts/solr-match-all-search.md
-[debug] 18:10:51.420 Processed: _posts/sqlite-database-error.md
-[debug] 18:10:51.421 Processed: _posts/sqlite-delete-data-use-datetime-string.md
-[debug] 18:10:51.422 Processed: _posts/swot-pdca-6w2h-etc.md
-[debug] 18:10:51.424 Processed: _posts/to-be-a-better-engineer.md
-[debug] 18:10:51.428 Processed: _posts/tomcat-run-error.md
-[debug] 18:10:51.431 Processed: _posts/upstream-prerequisites.md
-[debug] 18:10:51.522 Processed: _posts/use-c-parse-file.md
-[debug] 18:10:51.523 Processed: _posts/use-js-replace-string.md
-[debug] 18:10:51.524 Processed: _posts/use-lambda-in-generic-class.md
-[debug] 18:10:51.526 Processed: _posts/use-nunit-with-debug.md
-[debug] 18:10:51.527 Processed: _posts/welcome-to-software-construction.md
-[debug] 18:10:51.528 Processed: _posts/win7-debug.md
-[debug] 18:10:51.529 Processed: _posts/work-but-not-for-money.md
-[debug] 18:10:51.530 Processed: _posts/work-thinking.md
-[debug] 18:10:51.538 Processed: _posts/wpf-mulitthread-error.md
-[debug] 18:10:51.724 Cache saved
-[info] 18:10:51.725 Files loaded in 1.061s
-[debug] 18:10:51.739 Public folder not exists. No need to clear public folder.
-[debug] 18:10:51.747 Render archive: archives/
-[debug] 18:10:51.747 Render archive: archives/page/2/
-[debug] 18:10:51.747 Render archive: archives/page/3/
-[debug] 18:10:51.747 Render archive: archives/page/4/
-[debug] 18:10:51.748 Render archive: archives/page/5/
-[debug] 18:10:51.748 Render archive: archives/page/6/
-[debug] 18:10:51.748 Render archive: archives/page/7/
-[debug] 18:10:51.748 Render archive: archives/page/8/
-[debug] 18:10:51.748 Render archive: archives/page/9/
-[debug] 18:10:51.748 Render archive: archives/page/10/
-[debug] 18:10:51.748 Render archive: archives/page/11/
-[debug] 18:10:51.748 Render archive: archives/page/12/
-[debug] 18:10:51.748 Render archive: archives/page/13/
-[debug] 18:10:51.748 Render archive: archives/page/14/
-[debug] 18:10:51.748 Render archive: archives/page/15/
-[debug] 18:10:51.748 Render archive: archives/page/16/
-[debug] 18:10:51.748 Render archive: archives/page/17/
-[debug] 18:10:51.748 Render archive: archives/page/18/
-[debug] 18:10:51.748 Render archive: archives/page/19/
-[debug] 18:10:51.748 Render archive: archives/2013/
-[debug] 18:10:51.748 Render archive: archives/2013/page/2/
-[debug] 18:10:51.748 Render archive: archives/2013/page/3/
-[debug] 18:10:51.748 Render archive: archives/2013/page/4/
-[debug] 18:10:51.748 Render archive: archives/2013/page/5/
-[debug] 18:10:51.748 Render archive: archives/2013/page/6/
-[debug] 18:10:51.748 Render archive: archives/2013/page/7/
-[debug] 18:10:51.748 Render archive: archives/2013/page/8/
-[debug] 18:10:51.748 Render archive: archives/2013/page/9/
-[debug] 18:10:51.748 Render archive: archives/2013/page/10/
-[debug] 18:10:51.748 Render archive: archives/2013/page/11/
-[debug] 18:10:51.748 Render archive: archives/2013/page/12/
-[debug] 18:10:51.748 Render archive: archives/2013/page/13/
-[debug] 18:10:51.748 Render archive: archives/2013/page/14/
-[debug] 18:10:51.748 Render archive: archives/2013/page/15/
-[debug] 18:10:51.748 Render archive: archives/2013/page/16/
-[debug] 18:10:51.748 Render archive: archives/2013/page/17/
-[debug] 18:10:51.748 Render archive: archives/2013/page/18/
-[debug] 18:10:51.748 Render archive: archives/2013/page/19/
-[debug] 18:10:51.748 Render archive: archives/2013/01/
-[debug] 18:10:51.748 Render archive: archives/2013/02/
-[debug] 18:10:51.748 Render archive: archives/2013/03/
-[debug] 18:10:51.748 Render archive: archives/2013/03/page/2/
-[debug] 18:10:51.749 Render archive: archives/2013/03/page/3/
-[debug] 18:10:51.749 Render archive: archives/2013/03/page/4/
-[debug] 18:10:51.749 Render archive: archives/2013/04/
-[debug] 18:10:51.749 Render archive: archives/2013/04/page/2/
-[debug] 18:10:51.749 Render archive: archives/2013/04/page/3/
-[debug] 18:10:51.749 Render archive: archives/2013/05/
-[debug] 18:10:51.749 Render archive: archives/2013/05/page/2/
-[debug] 18:10:51.749 Render archive: archives/2013/05/page/3/
-[debug] 18:10:51.749 Render archive: archives/2013/05/page/4/
-[debug] 18:10:51.749 Render archive: archives/2013/05/page/5/
-[debug] 18:10:51.749 Render archive: archives/2013/06/
-[debug] 18:10:51.749 Render archive: archives/2013/06/page/2/
-[debug] 18:10:51.749 Render archive: archives/2013/06/page/3/
-[debug] 18:10:51.749 Render archive: archives/2013/07/
-[debug] 18:10:51.749 Render archive: archives/2013/07/page/2/
-[debug] 18:10:51.749 Render archive: archives/2013/07/page/3/
-[debug] 18:10:51.749 Render archive: archives/2013/08/
-[debug] 18:10:51.749 Render archive: archives/2013/08/page/2/
-[debug] 18:10:51.749 Render category: categories/读书笔记/
-[debug] 18:10:51.749 Render category: categories/学习/
-[debug] 18:10:51.749 Render category: categories/问题修复/
-[debug] 18:10:51.749 Render category: categories/工具/
-[debug] 18:10:51.749 Render category: categories/学习/项目管理/
-[debug] 18:10:51.749 Render category: categories/工作/
-[debug] 18:10:51.749 Render category: categories/人文思考/
-[debug] 18:10:51.749 Render category: categories/学习/置顶/
-[debug] 18:10:51.749 Render index: 
-[debug] 18:10:51.749 Render index: page/2/
-[debug] 18:10:51.749 Render index: page/3/
-[debug] 18:10:51.749 Render index: page/4/
-[debug] 18:10:51.749 Render index: page/5/
-[debug] 18:10:51.749 Render index: page/6/
-[debug] 18:10:51.749 Render index: page/7/
-[debug] 18:10:51.749 Render index: page/8/
-[debug] 18:10:51.749 Render index: page/9/
-[debug] 18:10:51.749 Render index: page/10/
-[debug] 18:10:51.749 Render index: page/11/
-[debug] 18:10:51.749 Render index: page/12/
-[debug] 18:10:51.749 Render index: page/13/
-[debug] 18:10:51.749 Render index: page/14/
-[debug] 18:10:51.749 Render index: page/15/
-[debug] 18:10:51.749 Render index: page/16/
-[debug] 18:10:51.749 Render index: page/17/
-[debug] 18:10:51.749 Render index: page/18/
-[debug] 18:10:51.749 Render index: page/19/
-[debug] 18:10:51.749 Render page: 404.html
-[debug] 18:10:51.749 Render page: about/index.html
-[debug] 18:10:51.749 Render page: projects/index.html
-[debug] 18:10:51.749 Render post: 2013/08/27/csharp-code-review/
-[debug] 18:10:51.750 Render post: 2013/08/27/find-your-place/
-[debug] 18:10:51.750 Render post: 2013/08/22/csharp-build-xmlrpc-server-without-iis/
-[debug] 18:10:51.750 Render post: 2013/08/22/can-not-push-rep-to-heroku/
-[debug] 18:10:51.750 Render post: 2013/08/21/cpp-const/
-[debug] 18:10:51.750 Render post: 2013/08/13/csharp-use-synchronizationcontext-update-ui-in-multithreading/
-[debug] 18:10:51.750 Render post: 2013/08/02/js-make-regex/
-[debug] 18:10:51.750 Render post: 2013/07/29/nohup-do-not-output-logfile/
-[debug] 18:10:51.750 Render post: 2013/07/28/cubieboard-as-download-server/
-[debug] 18:10:51.750 Render post: 2013/07/28/cubieboard-run-mongodb/
-[debug] 18:10:51.750 Render post: 2013/07/28/linux-config-samba-to-share-files/
-[debug] 18:10:51.750 Render post: 2013/07/28/cubieboard-compile-nodejs/
-[debug] 18:10:51.750 Render post: 2013/07/28/cubieboard-wifi-config/
-[debug] 18:10:51.750 Render post: 2013/07/23/htmlagilitypack-cannot-get-form-innerhtml/
-[debug] 18:10:51.750 Render post: 2013/07/15/solr-match-all-search/
-[debug] 18:10:51.750 Render post: 2013/07/11/use-nunit-with-debug/
-[debug] 18:10:51.750 Render post: 2013/07/09/background-thread/
-[debug] 18:10:51.750 Render post: 2013/07/08/httpwebrequest-timeout-exception/
-[debug] 18:10:51.750 Render post: 2013/07/03/download-picture-using-httpwebrequest/
-[debug] 18:10:51.750 Render post: 2013/07/02/solr-add-ikanalyzer-support/
-[debug] 18:10:51.750 Render post: 2013/07/01/csharp-forcing-free-memory/
-[debug] 18:10:51.750 Render post: 2013/06/27/charset-encoding/
-[debug] 18:10:51.750 Render post: 2013/06/27/csharp-read-data-in-multithread-safely/
-[debug] 18:10:51.750 Render post: 2013/06/26/debug-nodejs-app/
-[debug] 18:10:51.750 Render post: 2013/06/20/to-be-a-better-engineer/
-[debug] 18:10:51.750 Render post: 2013/06/18/c-where-to-define-var/
-[debug] 18:10:51.750 Render post: 2013/06/18/c-memory-alloc/
-[debug] 18:10:51.750 Render post: 2013/06/17/csharp-unhandled-exception/
-[debug] 18:10:51.750 Render post: 2013/06/09/big-endian-and-little-endian/
-[debug] 18:10:51.750 Render post: 2013/06/08/mingw-cygwin/
-[debug] 18:10:51.750 Render post: 2013/06/07/assembly-register/
-[debug] 18:10:51.750 Render post: 2013/06/06/linux-nohup/
-[debug] 18:10:51.750 Render post: 2013/06/06/socket-send-recv/
-[debug] 18:10:51.750 Render post: 2013/06/05/regex-replace-html-property/
-[debug] 18:10:51.750 Render post: 2013/06/05/mongodb-copy-data-between-collections/
-[debug] 18:10:51.750 Render post: 2013/05/30/insert-data-into-sql-server-use-table-value/
-[debug] 18:10:51.750 Render post: 2013/05/23/csharp-gettime/
-[debug] 18:10:51.750 Render post: 2013/05/23/nodejs-deploy-code/
-[debug] 18:10:51.750 Render post: 2013/05/20/win7-debug/
-[debug] 18:10:51.750 Render post: 2013/05/12/assembly-base/
-[debug] 18:10:51.750 Render post: 2013/05/11/sqlite-delete-data-use-datetime-string/
-[debug] 18:10:51.750 Render post: 2013/05/11/excellence-and-normal/
-[debug] 18:10:51.751 Render post: 2013/05/11/da-gong-si-you-du/
-[debug] 18:10:51.751 Render post: 2013/05/11/work-but-not-for-money/
-[debug] 18:10:51.751 Render post: 2013/05/11/learn-programming/
-[debug] 18:10:51.751 Render post: 2013/05/11/folklore/
-[debug] 18:10:51.751 Render post: 2013/05/09/mongodb-datetime/
-[debug] 18:10:51.751 Render post: 2013/05/08/mongodb-delete-document-key/
-[debug] 18:10:51.751 Render post: 2013/05/07/mstsc-limit/
-[debug] 18:10:51.751 Render post: 2013/05/07/blogml/
-[debug] 18:10:51.751 Render post: 2013/05/07/cmmi/
-[debug] 18:10:51.751 Render post: 2013/05/06/use-lambda-in-generic-class/
-[debug] 18:10:51.751 Render post: 2013/05/06/cdn/
-[debug] 18:10:51.751 Render post: 2013/05/06/sdn-and-openflow/
-[debug] 18:10:51.751 Render post: 2013/05/06/linux-permission-denied/
-[debug] 18:10:51.751 Render post: 2013/05/05/csharp-handle-close-event/
-[debug] 18:10:51.751 Render post: 2013/05/03/how-to-close-screen-and-lock-pc/
-[debug] 18:10:51.751 Render post: 2013/04/19/linux-background-job/
-[debug] 18:10:51.751 Render post: 2013/04/18/jekyll-2-hexo/
-[debug] 18:10:51.751 Render post: 2013/04/17/install-pip/
-[debug] 18:10:51.751 Render post: 2013/04/16/wpf-mulitthread-error/
-[debug] 18:10:51.751 Render post: 2013/04/14/after-install-centos/
-[debug] 18:10:51.751 Render post: 2013/04/12/delegate-to-an-instance-method-cannot-have-null-this/
-[debug] 18:10:51.751 Render post: 2013/04/08/about-product/
-[debug] 18:10:51.751 Render post: 2013/04/08/use-js-replace-string/
-[debug] 18:10:51.751 Render post: 2013/04/07/redis-db/
-[debug] 18:10:51.751 Render post: 2013/04/06/linux-vi-settings/
-[debug] 18:10:51.751 Render post: 2013/04/05/install-skype-on-centos/
-[debug] 18:10:51.751 Render post: 2013/04/05/run-teamviewer8-error-on-centos/
-[debug] 18:10:51.751 Render post: 2013/04/05/git-pull-error/
-[debug] 18:10:51.751 Render post: 2013/04/05/debug-program-with-gdb/
-[debug] 18:10:51.751 Render post: 2013/04/05/error-while-loading-shared-libraries/
-[debug] 18:10:51.751 Render post: 2013/03/31/use-c-parse-file/
-[debug] 18:10:51.751 Render post: 2013/03/29/swot-pdca-6w2h-etc/
-[debug] 18:10:51.751 Render post: 2013/03/27/linq-executecommand/
-[debug] 18:10:51.751 Render post: 2013/03/26/game-engine/
-[debug] 18:10:51.751 Render post: 2013/03/23/predefined-macros/
-[debug] 18:10:51.751 Render post: 2013/03/21/merge-data-table/
-[debug] 18:10:51.751 Render post: 2013/03/19/upstream-prerequisites/
-[debug] 18:10:51.751 Render post: 2013/03/19/c-handle-sql-server/
-[debug] 18:10:51.751 Render post: 2013/03/18/about-requirement/
-[debug] 18:10:51.751 Render post: 2013/03/17/eclipse-error/
-[debug] 18:10:51.751 Render post: 2013/03/17/tomcat-run-error/
-[debug] 18:10:51.751 Render post: 2013/03/14/regex/
-[debug] 18:10:51.751 Render post: 2013/03/14/importance-of-prerequisites/
-[debug] 18:10:51.751 Render post: 2013/03/11/chosen/
-[debug] 18:10:51.751 Render post: 2013/03/11/learn-sql/
-[debug] 18:10:51.751 Render post: 2013/03/08/work-thinking/
-[debug] 18:10:51.751 Render post: 2013/03/04/linux-welcome/
-[debug] 18:10:51.751 Render post: 2013/03/01/disable-log4net-log/
-[debug] 18:10:51.751 Render post: 2013/02/28/sqlite-database-error/
-[debug] 18:10:51.751 Render post: 2013/01/31/fragment/
-[debug] 18:10:51.751 Render post: 2013/01/30/jekyll-encoding-problem/
-[debug] 18:10:51.751 Render post: 2013/01/30/install-redmine/
-[debug] 18:10:51.752 Render post: 2013/01/15/welcome-to-software-construction/
-[debug] 18:10:51.752 Render tag: tags/项目管理/
-[debug] 18:10:51.752 Render tag: tags/代码大全/
-[debug] 18:10:51.752 Render tag: tags/Linux/
-[debug] 18:10:51.752 Render tag: tags/汇编/
-[debug] 18:10:51.752 Render tag: tags/CSharp/
-[debug] 18:10:51.752 Render tag: tags/C/
-[debug] 18:10:51.752 Render tag: tags/C++/
-[debug] 18:10:51.752 Render tag: tags/SQLServer/
-[debug] 18:10:51.752 Render tag: tags/jQuery/
-[debug] 18:10:51.752 Render tag: tags/rpc/
-[debug] 18:10:51.752 Render tag: tags/cubieboard/
-[debug] 18:10:51.752 Render tag: tags/cubieboard2/
-[debug] 18:10:51.752 Render tag: tags/nodejs/
-[debug] 18:10:51.752 Render tag: tags/gdb/
-[debug] 18:10:51.752 Render tag: tags/log4net/
-[debug] 18:10:51.752 Render tag: tags/Eclipse/
-[debug] 18:10:51.752 Render tag: tags/游戏引擎/
-[debug] 18:10:51.752 Render tag: tags/git/
-[debug] 18:10:51.752 Render tag: tags/python/
-[debug] 18:10:51.752 Render tag: tags/pip/
-[debug] 18:10:51.752 Render tag: tags/Redmine/
-[debug] 18:10:51.752 Render tag: tags/hexo/
-[debug] 18:10:51.752 Render tag: tags/jekyll/
-[debug] 18:10:51.752 Render tag: tags/js/
-[debug] 18:10:51.752 Render tag: tags/工作/
-[debug] 18:10:51.752 Render tag: tags/Linq/
-[debug] 18:10:51.752 Render tag: tags/linux/
-[debug] 18:10:51.752 Render tag: tags/vi/
-[debug] 18:10:51.752 Render tag: tags/SQL/
-[debug] 18:10:51.752 Render tag: tags/mongodb/
-[debug] 18:10:51.752 Render tag: tags/MongoDB/
-[debug] 18:10:51.752 Render tag: tags/C&C++/
-[debug] 18:10:51.752 Render tag: tags/Redis/
-[debug] 18:10:51.752 Render tag: tags/正则表达式/
-[debug] 18:10:51.752 Render tag: tags/TeamViewer/
-[debug] 18:10:51.752 Render tag: tags/socket/
-[debug] 18:10:51.752 Render tag: tags/Solr/
-[debug] 18:10:51.752 Render tag: tags/sqlite/
-[debug] 18:10:51.752 Render tag: tags/方法论/
-[debug] 18:10:51.752 Render tag: tags/Tomcat/
-[debug] 18:10:51.752 Render tag: tags/NUnit/
-[debug] 18:10:51.752 Render tag: tags/WPF/
-[debug] 18:10:51.752 Render tag: tags/多线程/
-[error] 18:10:51.892 HexoError: Render failed: css/style.css
-ParseError: E:\网站\hexoblog\themes\light\source\css\_base\variable.styl:14
-   10| font-serif = "Georgia", serif
-   11| font-mono = Monaco, Menlo, Consolas, Courier New, monospace
-   12| font-title = "Lato", Helvetica Neue, Helvetica, Arial, sans-serif
-   13| 
- > 14| @import url(//fonts.googleapis.com/css?family=Lato:400,400italic)
-   15| 
-   16| font-icon = FontAwesome
-   17| font-icon-path = 'font/fontawesome-webfont'
-
-expected ")", got "space"
-
-    at Parser.error (C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\node_modules\stylus\lib\parser.js:166:11)
-    at Parser.expect (C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\node_modules\stylus\lib\parser.js:194:12)
-    at Parser.url (C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\node_modules\stylus\lib\parser.js:1227:10)
-    at Parser.functionCall (C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\node_modules\stylus\lib\parser.js:1237:52)
-    at Parser.primary (C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\node_modules\stylus\lib\parser.js:1611:21)
-    at Parser.subscript (C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\node_modules\stylus\lib\parser.js:1561:21)
-    at Parser.unary (C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\node_modules\stylus\lib\parser.js:1552:17)
-    at Parser.defined (C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\node_modules\stylus\lib\parser.js:1526:21)
-    at Parser.multiplicative (C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\node_modules\stylus\lib\parser.js:1500:21)
-    at Parser.additive (C:\Users\zhaishidan\AppData\Roaming\npm\node_modules\hexo\node_modules\stylus\lib\parser.js:1485:21)
+[debug] 20:42:40.834 Configuration file load successfully
+[debug] 20:42:40.835 Version info checked successfully
+[debug] 20:42:40.835 Loading the database...
+[debug] 20:42:41.221 Theme layout loaded
+[debug] 20:42:41.318 Processed: CNAME
+[debug] 20:42:41.318 Processed: favicon.png
+[debug] 20:42:41.322 Theme source loaded
+[debug] 20:42:41.327 Processed: images/404caring.png
+[debug] 20:42:41.327 Processed: images/aria-yaaw.png
+[debug] 20:42:41.327 Processed: images/cubie-mongodb.png
+[debug] 20:42:41.328 Processed: images/endian.png
+[debug] 20:42:41.328 Processed: images/favicon.ico
+[debug] 20:42:41.328 Processed: images/mstsc.png
+[debug] 20:42:41.328 Processed: images/stack-top.png
+[debug] 20:42:41.328 Processed: images/teamviewer_error.png
+[debug] 20:42:41.329 Processed: images/vi.png
+[debug] 20:42:41.329 Processed: images/xmlrpc.png
+[debug] 20:42:41.329 Processed: images/存储器.gif
+[debug] 20:42:41.329 Processed: images/project/fourchess.jpg
+[debug] 20:42:41.330 Processed: images/project/fourchess_eat.jpg
+[debug] 20:42:41.330 Processed: images/project/Html2Article.png
+[debug] 20:42:41.330 Processed: images/me/photo.jpg
+[debug] 20:42:41.330 Processed: images/eclipse_error.png
+[debug] 20:42:41.335 Theme configuration loaded
+[debug] 20:42:41.338 Theme i18n loaded
+[debug] 20:42:41.733 Processed: 404.html
+[debug] 20:42:41.776 Processed: about/index.md
+[debug] 20:42:41.777 Processed: projects/index.md
+[debug] 20:42:41.779 Processed: _posts/about-product.md
+[debug] 20:42:41.781 Processed: _posts/about-requirement.md
+[debug] 20:42:41.783 Processed: _posts/assembly-base.md
+[debug] 20:42:41.784 Processed: _posts/assembly-register.md
+[debug] 20:42:41.785 Processed: _posts/background-thread.md
+[debug] 20:42:41.786 Processed: _posts/big-endian-and-little-endian.md
+[debug] 20:42:41.788 Processed: _posts/blogml.md
+[debug] 20:42:41.795 Processed: _posts/c-handle-sql-server.md
+[debug] 20:42:41.796 Processed: _posts/c-memory-alloc.md
+[debug] 20:42:41.797 Processed: _posts/c-where-to-define-var.md
+[debug] 20:42:41.798 Processed: _posts/can-not-push-rep-to-heroku.md
+[debug] 20:42:41.799 Processed: _posts/cdn.md
+[debug] 20:42:41.800 Processed: _posts/charset-encoding.md
+[debug] 20:42:41.801 Processed: _posts/chosen.md
+[debug] 20:42:41.803 Processed: _posts/cmmi.md
+[debug] 20:42:41.809 Processed: _posts/cpp-const.md
+[debug] 20:42:41.810 Processed: _posts/cpp-static.md
+[debug] 20:42:41.811 Processed: _posts/csharp-build-xmlrpc-server-without-iis.md
+[debug] 20:42:41.813 Processed: _posts/csharp-code-review.md
+[debug] 20:42:41.814 Processed: _posts/csharp-forcing-free-memory.md
+[debug] 20:42:41.817 Processed: _posts/csharp-gettime.md
+[debug] 20:42:41.818 Processed: _posts/csharp-handle-close-event.md
+[debug] 20:42:41.821 Processed: _posts/after-install-centos.md
+[debug] 20:42:41.822 Processed: _posts/csharp-libraries.md
+[debug] 20:42:41.823 Processed: _posts/csharp-read-data-in-multithread-safely.md
+[debug] 20:42:41.824 Processed: _posts/csharp-unhandled-exception.md
+[debug] 20:42:41.825 Processed: _posts/csharp-use-synchronizationcontext-update-ui-in-multithreading.md
+[debug] 20:42:41.826 Processed: _posts/cubieboard-as-download-server.md
+[debug] 20:42:41.827 Processed: _posts/cubieboard-compile-nodejs.md
+[debug] 20:42:41.832 Processed: _posts/cubieboard-run-mongodb.md
+[debug] 20:42:41.832 Processed: _posts/cubieboard-wifi-config.md
+[debug] 20:42:41.833 Processed: _posts/da-gong-si-you-du.md
+[debug] 20:42:41.834 Processed: _posts/debug-nodejs-app.md
+[debug] 20:42:41.836 Processed: _posts/debug-program-with-gdb.md
+[debug] 20:42:41.838 Processed: _posts/delegate-to-an-instance-method-cannot-have-null-this.md
+[debug] 20:42:41.842 Processed: _posts/disable-log4net-log.md
+[debug] 20:42:41.843 Processed: _posts/download-picture-using-httpwebrequest.md
+[debug] 20:42:41.844 Processed: _posts/eclipse-error.md
+[debug] 20:42:41.845 Processed: _posts/eclipse-is-missing-required-library.md
+[debug] 20:42:41.847 Processed: _posts/error-while-loading-shared-libraries.md
+[debug] 20:42:41.848 Processed: _posts/excellence-and-normal.md
+[debug] 20:42:41.849 Processed: _posts/find-your-place.md
+[debug] 20:42:41.850 Processed: _posts/folklore.md
+[debug] 20:42:41.851 Processed: _posts/fragment.md
+[debug] 20:42:41.856 Processed: _posts/game-engine.md
+[debug] 20:42:41.859 Processed: _posts/git-pull-error.md
+[debug] 20:42:41.861 Processed: _posts/how-to-close-screen-and-lock-pc.md
+[debug] 20:42:41.862 Processed: _posts/htmlagilitypack-cannot-get-form-innerhtml.md
+[debug] 20:42:41.863 Processed: _posts/httpwebrequest-timeout-exception.md
+[debug] 20:42:41.864 Processed: _posts/importance-of-prerequisites.md
+[debug] 20:42:41.865 Processed: _posts/insert-data-into-sql-server-use-table-value.md
+[debug] 20:42:41.870 Processed: _posts/install-pip.md
+[debug] 20:42:41.872 Processed: _posts/install-redmine.md
+[debug] 20:42:41.877 Processed: _posts/install-skype-on-centos.md
+[debug] 20:42:41.879 Processed: _posts/jekyll-2-hexo.md
+[debug] 20:42:41.883 Processed: _posts/jekyll-encoding-problem.md
+[debug] 20:42:41.884 Processed: _posts/js-make-regex.md
+[debug] 20:42:41.885 Processed: _posts/learn-programming.md
+[debug] 20:42:41.890 Processed: _posts/learn-sql.md
+[debug] 20:42:41.894 Processed: _posts/linq-executecommand.md
+[debug] 20:42:41.895 Processed: _posts/linux-background-job.md
+[debug] 20:42:41.896 Processed: _posts/linux-config-samba-to-share-files.md
+[debug] 20:42:41.899 Processed: _posts/linux-nohup.md
+[debug] 20:42:41.900 Processed: _posts/linux-permission-denied.md
+[debug] 20:42:41.908 Processed: _posts/linux-vi-settings.md
+[debug] 20:42:41.909 Processed: _posts/linux-welcome.md
+[debug] 20:42:41.911 Processed: _posts/make-a-play.md
+[debug] 20:42:41.915 Processed: _posts/merge-data-table.md
+[debug] 20:42:41.920 Processed: _posts/mingw-cygwin.md
+[debug] 20:42:41.921 Processed: _posts/mongodb-copy-data-between-collections.md
+[debug] 20:42:41.923 Processed: _posts/mongodb-datetime.md
+[debug] 20:42:41.925 Processed: _posts/mongodb-delete-document-key.md
+[debug] 20:42:41.926 Processed: _posts/mstsc-limit.md
+[debug] 20:42:41.927 Processed: _posts/nodejs-cluster-express.md
+[debug] 20:42:41.929 Processed: _posts/nodejs-deploy-code.md
+[debug] 20:42:41.931 Processed: _posts/nodejs-mysql-connection-lost.md
+[debug] 20:42:41.932 Processed: _posts/nodejs-unhandled-exception.md
+[debug] 20:42:41.933 Processed: _posts/nohup-do-not-output-logfile.md
+[debug] 20:42:41.935 Processed: _posts/plain-to-learn.md
+[debug] 20:42:41.936 Processed: _posts/predefined-macros.md
+[debug] 20:42:41.938 Processed: _posts/redis-db.md
+[debug] 20:42:41.939 Processed: _posts/regex-replace-html-property.md
+[debug] 20:42:41.947 Processed: _posts/regex.md
+[debug] 20:42:41.957 Processed: _posts/run-teamviewer8-error-on-centos.md
+[debug] 20:42:41.959 Processed: _posts/sdn-and-openflow.md
+[debug] 20:42:41.960 Processed: _posts/socket-send-recv.md
+[debug] 20:42:41.961 Processed: _posts/solr-add-ikanalyzer-support.md
+[debug] 20:42:41.963 Processed: _posts/solr-match-all-search.md
+[debug] 20:42:41.969 Processed: _posts/sqlite-database-error.md
+[debug] 20:42:41.970 Processed: _posts/sqlite-delete-data-use-datetime-string.md
+[debug] 20:42:41.972 Processed: _posts/sublime-text.md
+[debug] 20:42:41.974 Processed: _posts/swot-pdca-6w2h-etc.md
+[debug] 20:42:41.976 Processed: _posts/to-be-a-better-engineer.md
+[debug] 20:42:41.979 Processed: _posts/tomcat-run-error.md
+[debug] 20:42:41.980 Processed: _posts/upstream-prerequisites.md
+[debug] 20:42:42.063 Processed: _posts/use-c-parse-file.md
+[debug] 20:42:42.064 Processed: _posts/use-js-replace-string.md
+[debug] 20:42:42.066 Processed: _posts/use-lambda-in-generic-class.md
+[debug] 20:42:42.067 Processed: _posts/use-nunit-with-debug.md
+[debug] 20:42:42.068 Processed: _posts/welcome-to-software-construction.md
+[debug] 20:42:42.069 Processed: _posts/win7-debug.md
+[debug] 20:42:42.070 Processed: _posts/work-but-not-for-money.md
+[debug] 20:42:42.071 Processed: _posts/work-thinking.md
+[debug] 20:42:42.079 Processed: _posts/wpf-mulitthread-error.md
+[debug] 20:42:42.279 Cache saved
+[info] 20:42:42.280 Files loaded in 1.198s
+[debug] 20:42:42.287 Public folder not exists. No need to clear public folder.
+[debug] 20:42:42.291 Render archive: archives/
+[debug] 20:42:42.292 Render archive: archives/page/2/
+[debug] 20:42:42.292 Render archive: archives/page/3/
+[debug] 20:42:42.292 Render archive: archives/page/4/
+[debug] 20:42:42.292 Render archive: archives/page/5/
+[debug] 20:42:42.292 Render archive: archives/page/6/
+[debug] 20:42:42.292 Render archive: archives/page/7/
+[debug] 20:42:42.292 Render archive: archives/page/8/
+[debug] 20:42:42.292 Render archive: archives/page/9/
+[debug] 20:42:42.292 Render archive: archives/page/10/
+[debug] 20:42:42.292 Render archive: archives/page/11/
+[debug] 20:42:42.292 Render archive: archives/page/12/
+[debug] 20:42:42.292 Render archive: archives/page/13/
+[debug] 20:42:42.292 Render archive: archives/page/14/
+[debug] 20:42:42.292 Render archive: archives/page/15/
+[debug] 20:42:42.292 Render archive: archives/page/16/
+[debug] 20:42:42.292 Render archive: archives/page/17/
+[debug] 20:42:42.292 Render archive: archives/page/18/
+[debug] 20:42:42.292 Render archive: archives/page/19/
+[debug] 20:42:42.292 Render archive: archives/page/20/
+[debug] 20:42:42.292 Render archive: archives/page/21/
+[debug] 20:42:42.292 Render archive: archives/2013/
+[debug] 20:42:42.292 Render archive: archives/2013/page/2/
+[debug] 20:42:42.292 Render archive: archives/2013/page/3/
+[debug] 20:42:42.292 Render archive: archives/2013/page/4/
+[debug] 20:42:42.292 Render archive: archives/2013/page/5/
+[debug] 20:42:42.292 Render archive: archives/2013/page/6/
+[debug] 20:42:42.292 Render archive: archives/2013/page/7/
+[debug] 20:42:42.292 Render archive: archives/2013/page/8/
+[debug] 20:42:42.292 Render archive: archives/2013/page/9/
+[debug] 20:42:42.292 Render archive: archives/2013/page/10/
+[debug] 20:42:42.292 Render archive: archives/2013/page/11/
+[debug] 20:42:42.292 Render archive: archives/2013/page/12/
+[debug] 20:42:42.292 Render archive: archives/2013/page/13/
+[debug] 20:42:42.292 Render archive: archives/2013/page/14/
+[debug] 20:42:42.292 Render archive: archives/2013/page/15/
+[debug] 20:42:42.292 Render archive: archives/2013/page/16/
+[debug] 20:42:42.292 Render archive: archives/2013/page/17/
+[debug] 20:42:42.292 Render archive: archives/2013/page/18/
+[debug] 20:42:42.292 Render archive: archives/2013/page/19/
+[debug] 20:42:42.292 Render archive: archives/2013/page/20/
+[debug] 20:42:42.292 Render archive: archives/2013/page/21/
+[debug] 20:42:42.292 Render archive: archives/2013/01/
+[debug] 20:42:42.292 Render archive: archives/2013/02/
+[debug] 20:42:42.292 Render archive: archives/2013/03/
+[debug] 20:42:42.292 Render archive: archives/2013/03/page/2/
+[debug] 20:42:42.292 Render archive: archives/2013/03/page/3/
+[debug] 20:42:42.292 Render archive: archives/2013/03/page/4/
+[debug] 20:42:42.292 Render archive: archives/2013/04/
+[debug] 20:42:42.292 Render archive: archives/2013/04/page/2/
+[debug] 20:42:42.292 Render archive: archives/2013/04/page/3/
+[debug] 20:42:42.292 Render archive: archives/2013/05/
+[debug] 20:42:42.292 Render archive: archives/2013/05/page/2/
+[debug] 20:42:42.292 Render archive: archives/2013/05/page/3/
+[debug] 20:42:42.292 Render archive: archives/2013/05/page/4/
+[debug] 20:42:42.292 Render archive: archives/2013/05/page/5/
+[debug] 20:42:42.292 Render archive: archives/2013/06/
+[debug] 20:42:42.292 Render archive: archives/2013/06/page/2/
+[debug] 20:42:42.292 Render archive: archives/2013/06/page/3/
+[debug] 20:42:42.292 Render archive: archives/2013/07/
+[debug] 20:42:42.292 Render archive: archives/2013/07/page/2/
+[debug] 20:42:42.292 Render archive: archives/2013/07/page/3/
+[debug] 20:42:42.292 Render archive: archives/2013/08/
+[debug] 20:42:42.292 Render archive: archives/2013/08/page/2/
+[debug] 20:42:42.292 Render archive: archives/2013/09/
+[debug] 20:42:42.292 Render archive: archives/2013/09/page/2/
+[debug] 20:42:42.292 Render category: categories/读书笔记/
+[debug] 20:42:42.292 Render category: categories/学习/
+[debug] 20:42:42.293 Render category: categories/问题修复/
+[debug] 20:42:42.293 Render category: categories/工具/
+[debug] 20:42:42.293 Render category: categories/学习/项目管理/
+[debug] 20:42:42.293 Render category: categories/工作/
+[debug] 20:42:42.293 Render category: categories/人文思考/
+[debug] 20:42:42.293 Render category: categories/学习/置顶/
+[debug] 20:42:42.293 Render index: 
+[debug] 20:42:42.293 Render index: page/2/
+[debug] 20:42:42.293 Render index: page/3/
+[debug] 20:42:42.293 Render index: page/4/
+[debug] 20:42:42.293 Render index: page/5/
+[debug] 20:42:42.293 Render index: page/6/
+[debug] 20:42:42.293 Render index: page/7/
+[debug] 20:42:42.293 Render index: page/8/
+[debug] 20:42:42.293 Render index: page/9/
+[debug] 20:42:42.293 Render index: page/10/
+[debug] 20:42:42.293 Render index: page/11/
+[debug] 20:42:42.293 Render index: page/12/
+[debug] 20:42:42.293 Render index: page/13/
+[debug] 20:42:42.293 Render index: page/14/
+[debug] 20:42:42.293 Render index: page/15/
+[debug] 20:42:42.293 Render index: page/16/
+[debug] 20:42:42.293 Render index: page/17/
+[debug] 20:42:42.293 Render index: page/18/
+[debug] 20:42:42.293 Render index: page/19/
+[debug] 20:42:42.293 Render index: page/20/
+[debug] 20:42:42.293 Render index: page/21/
+[debug] 20:42:42.293 Render page: 404.html
+[debug] 20:42:42.293 Render page: about/index.html
+[debug] 20:42:42.293 Render page: projects/index.html
+[debug] 20:42:42.293 Render post: 2013/09/13/make-a-play/
+[debug] 20:42:42.293 Render post: 2013/09/11/nodejs-mysql-connection-lost/
+[debug] 20:42:42.293 Render post: 2013/09/10/eclipse-is-missing-required-library/
+[debug] 20:42:42.293 Render post: 2013/09/09/nodejs-unhandled-exception/
+[debug] 20:42:42.293 Render post: 2013/09/09/nodejs-cluster-express/
+[debug] 20:42:42.293 Render post: 2013/09/09/cpp-static/
+[debug] 20:42:42.293 Render post: 2013/09/06/csharp-libraries/
+[debug] 20:42:42.293 Render post: 2013/09/06/plain-to-learn/
+[debug] 20:42:42.293 Render post: 2013/08/27/sublime-text/
+[debug] 20:42:42.293 Render post: 2013/08/27/csharp-code-review/
+[debug] 20:42:42.293 Render post: 2013/08/27/find-your-place/
+[debug] 20:42:42.293 Render post: 2013/08/22/csharp-build-xmlrpc-server-without-iis/
+[debug] 20:42:42.293 Render post: 2013/08/22/can-not-push-rep-to-heroku/
+[debug] 20:42:42.293 Render post: 2013/08/21/cpp-const/
+[debug] 20:42:42.293 Render post: 2013/08/13/csharp-use-synchronizationcontext-update-ui-in-multithreading/
+[debug] 20:42:42.293 Render post: 2013/08/02/js-make-regex/
+[debug] 20:42:42.293 Render post: 2013/07/29/nohup-do-not-output-logfile/
+[debug] 20:42:42.293 Render post: 2013/07/28/cubieboard-as-download-server/
+[debug] 20:42:42.293 Render post: 2013/07/28/cubieboard-run-mongodb/
+[debug] 20:42:42.293 Render post: 2013/07/28/linux-config-samba-to-share-files/
+[debug] 20:42:42.293 Render post: 2013/07/28/cubieboard-compile-nodejs/
+[debug] 20:42:42.293 Render post: 2013/07/28/cubieboard-wifi-config/
+[debug] 20:42:42.293 Render post: 2013/07/23/htmlagilitypack-cannot-get-form-innerhtml/
+[debug] 20:42:42.293 Render post: 2013/07/15/solr-match-all-search/
+[debug] 20:42:42.293 Render post: 2013/07/11/use-nunit-with-debug/
+[debug] 20:42:42.293 Render post: 2013/07/09/background-thread/
+[debug] 20:42:42.293 Render post: 2013/07/08/httpwebrequest-timeout-exception/
+[debug] 20:42:42.293 Render post: 2013/07/03/download-picture-using-httpwebrequest/
+[debug] 20:42:42.293 Render post: 2013/07/02/solr-add-ikanalyzer-support/
+[debug] 20:42:42.293 Render post: 2013/07/01/csharp-forcing-free-memory/
+[debug] 20:42:42.293 Render post: 2013/06/27/charset-encoding/
+[debug] 20:42:42.293 Render post: 2013/06/27/csharp-read-data-in-multithread-safely/
+[debug] 20:42:42.293 Render post: 2013/06/26/debug-nodejs-app/
+[debug] 20:42:42.293 Render post: 2013/06/20/to-be-a-better-engineer/
+[debug] 20:42:42.294 Render post: 2013/06/18/c-where-to-define-var/
+[debug] 20:42:42.294 Render post: 2013/06/18/c-memory-alloc/
+[debug] 20:42:42.294 Render post: 2013/06/17/csharp-unhandled-exception/
+[debug] 20:42:42.294 Render post: 2013/06/09/big-endian-and-little-endian/
+[debug] 20:42:42.294 Render post: 2013/06/08/mingw-cygwin/
+[debug] 20:42:42.294 Render post: 2013/06/07/assembly-register/
+[debug] 20:42:42.294 Render post: 2013/06/06/linux-nohup/
+[debug] 20:42:42.294 Render post: 2013/06/06/socket-send-recv/
+[debug] 20:42:42.294 Render post: 2013/06/05/regex-replace-html-property/
+[debug] 20:42:42.294 Render post: 2013/06/05/mongodb-copy-data-between-collections/
+[debug] 20:42:42.294 Render post: 2013/05/30/insert-data-into-sql-server-use-table-value/
+[debug] 20:42:42.294 Render post: 2013/05/23/csharp-gettime/
+[debug] 20:42:42.294 Render post: 2013/05/23/nodejs-deploy-code/
+[debug] 20:42:42.294 Render post: 2013/05/20/win7-debug/
+[debug] 20:42:42.294 Render post: 2013/05/12/assembly-base/
+[debug] 20:42:42.294 Render post: 2013/05/11/sqlite-delete-data-use-datetime-string/
+[debug] 20:42:42.294 Render post: 2013/05/11/excellence-and-normal/
+[debug] 20:42:42.294 Render post: 2013/05/11/da-gong-si-you-du/
+[debug] 20:42:42.294 Render post: 2013/05/11/work-but-not-for-money/
+[debug] 20:42:42.294 Render post: 2013/05/11/learn-programming/
+[debug] 20:42:42.294 Render post: 2013/05/11/folklore/
+[debug] 20:42:42.294 Render post: 2013/05/09/mongodb-datetime/
+[debug] 20:42:42.294 Render post: 2013/05/08/mongodb-delete-document-key/
+[debug] 20:42:42.294 Render post: 2013/05/07/mstsc-limit/
+[debug] 20:42:42.294 Render post: 2013/05/07/blogml/
+[debug] 20:42:42.294 Render post: 2013/05/07/cmmi/
+[debug] 20:42:42.294 Render post: 2013/05/06/use-lambda-in-generic-class/
+[debug] 20:42:42.294 Render post: 2013/05/06/cdn/
+[debug] 20:42:42.294 Render post: 2013/05/06/sdn-and-openflow/
+[debug] 20:42:42.294 Render post: 2013/05/06/linux-permission-denied/
+[debug] 20:42:42.294 Render post: 2013/05/05/csharp-handle-close-event/
+[debug] 20:42:42.294 Render post: 2013/05/03/how-to-close-screen-and-lock-pc/
+[debug] 20:42:42.294 Render post: 2013/04/19/linux-background-job/
+[debug] 20:42:42.294 Render post: 2013/04/18/jekyll-2-hexo/
+[debug] 20:42:42.294 Render post: 2013/04/17/install-pip/
+[debug] 20:42:42.294 Render post: 2013/04/16/wpf-mulitthread-error/
+[debug] 20:42:42.294 Render post: 2013/04/14/after-install-centos/
+[debug] 20:42:42.294 Render post: 2013/04/12/delegate-to-an-instance-method-cannot-have-null-this/
+[debug] 20:42:42.294 Render post: 2013/04/08/about-product/
+[debug] 20:42:42.294 Render post: 2013/04/08/use-js-replace-string/
+[debug] 20:42:42.294 Render post: 2013/04/07/redis-db/
+[debug] 20:42:42.294 Render post: 2013/04/06/linux-vi-settings/
+[debug] 20:42:42.294 Render post: 2013/04/05/debug-program-with-gdb/
+[debug] 20:42:42.294 Render post: 2013/04/05/run-teamviewer8-error-on-centos/
+[debug] 20:42:42.294 Render post: 2013/04/05/error-while-loading-shared-libraries/
+[debug] 20:42:42.294 Render post: 2013/04/05/git-pull-error/
+[debug] 20:42:42.294 Render post: 2013/04/05/install-skype-on-centos/
+[debug] 20:42:42.294 Render post: 2013/03/31/use-c-parse-file/
+[debug] 20:42:42.294 Render post: 2013/03/29/swot-pdca-6w2h-etc/
+[debug] 20:42:42.294 Render post: 2013/03/27/linq-executecommand/
+[debug] 20:42:42.294 Render post: 2013/03/26/game-engine/
+[debug] 20:42:42.294 Render post: 2013/03/23/predefined-macros/
+[debug] 20:42:42.294 Render post: 2013/03/21/merge-data-table/
+[debug] 20:42:42.294 Render post: 2013/03/19/c-handle-sql-server/
+[debug] 20:42:42.294 Render post: 2013/03/19/upstream-prerequisites/
+[debug] 20:42:42.294 Render post: 2013/03/18/about-requirement/
+[debug] 20:42:42.294 Render post: 2013/03/17/eclipse-error/
+[debug] 20:42:42.294 Render post: 2013/03/17/tomcat-run-error/
+[debug] 20:42:42.294 Render post: 2013/03/14/importance-of-prerequisites/
+[debug] 20:42:42.294 Render post: 2013/03/14/regex/
+[debug] 20:42:42.294 Render post: 2013/03/11/chosen/
+[debug] 20:42:42.294 Render post: 2013/03/11/learn-sql/
+[debug] 20:42:42.294 Render post: 2013/03/08/work-thinking/
+[debug] 20:42:42.294 Render post: 2013/03/04/linux-welcome/
+[debug] 20:42:42.294 Render post: 2013/03/01/disable-log4net-log/
+[debug] 20:42:42.294 Render post: 2013/02/28/sqlite-database-error/
+[debug] 20:42:42.294 Render post: 2013/01/31/fragment/
+[debug] 20:42:42.295 Render post: 2013/01/30/jekyll-encoding-problem/
+[debug] 20:42:42.295 Render post: 2013/01/30/install-redmine/
+[debug] 20:42:42.295 Render post: 2013/01/15/welcome-to-software-construction/
+[debug] 20:42:42.295 Render tag: tags/项目管理/
+[debug] 20:42:42.295 Render tag: tags/代码大全/
+[debug] 20:42:42.295 Render tag: tags/汇编/
+[debug] 20:42:42.295 Render tag: tags/CSharp/
+[debug] 20:42:42.295 Render tag: tags/C/
+[debug] 20:42:42.295 Render tag: tags/C++/
+[debug] 20:42:42.295 Render tag: tags/SQLServer/
+[debug] 20:42:42.295 Render tag: tags/jQuery/
+[debug] 20:42:42.295 Render tag: tags/cpp/
+[debug] 20:42:42.295 Render tag: tags/rpc/
+[debug] 20:42:42.295 Render tag: tags/Linux/
+[debug] 20:42:42.295 Render tag: tags/cubieboard/
+[debug] 20:42:42.295 Render tag: tags/cubieboard2/
+[debug] 20:42:42.295 Render tag: tags/nodejs/
+[debug] 20:42:42.295 Render tag: tags/gdb/
+[debug] 20:42:42.295 Render tag: tags/log4net/
+[debug] 20:42:42.295 Render tag: tags/Eclipse/
+[debug] 20:42:42.295 Render tag: tags/游戏引擎/
+[debug] 20:42:42.295 Render tag: tags/git/
+[debug] 20:42:42.296 Render tag: tags/python/
+[debug] 20:42:42.296 Render tag: tags/pip/
+[debug] 20:42:42.296 Render tag: tags/Redmine/
+[debug] 20:42:42.296 Render tag: tags/hexo/
+[debug] 20:42:42.296 Render tag: tags/jekyll/
+[debug] 20:42:42.296 Render tag: tags/js/
+[debug] 20:42:42.296 Render tag: tags/工作/
+[debug] 20:42:42.296 Render tag: tags/Linq/
+[debug] 20:42:42.296 Render tag: tags/linux/
+[debug] 20:42:42.296 Render tag: tags/vi/
+[debug] 20:42:42.296 Render tag: tags/SQL/
+[debug] 20:42:42.296 Render tag: tags/mongodb/
+[debug] 20:42:42.296 Render tag: tags/MongoDB/
+[debug] 20:42:42.296 Render tag: tags/C&C++/
+[debug] 20:42:42.296 Render tag: tags/Redis/
+[debug] 20:42:42.296 Render tag: tags/正则表达式/
+[debug] 20:42:42.296 Render tag: tags/TeamViewer/
+[debug] 20:42:42.296 Render tag: tags/socket/
+[debug] 20:42:42.296 Render tag: tags/Solr/
+[debug] 20:42:42.296 Render tag: tags/sqlite/
+[debug] 20:42:42.296 Render tag: tags/sublime text/
+[debug] 20:42:42.296 Render tag: tags/方法论/
+[debug] 20:42:42.296 Render tag: tags/Tomcat/
+[debug] 20:42:42.296 Render tag: tags/NUnit/
+[debug] 20:42:42.296 Render tag: tags/WPF/
+[debug] 20:42:42.296 Render tag: tags/多线程/
+[create] 20:42:44.440 Public: favicon.png
+[create] 20:42:44.441 Public: CNAME
+[create] 20:42:44.442 Public: fancybox\fancybox_overlay.png
+[create] 20:42:44.443 Public: fancybox\fancybox_sprite.png
+[create] 20:42:44.444 Public: fancybox\jquery.fancybox.css
+[create] 20:42:44.448 Public: fancybox\blank.gif
+[create] 20:42:44.449 Public: fancybox\fancybox_loading.gif
+[create] 20:42:44.449 Public: js\gallery.js
+[create] 20:42:44.451 Public: js\jquery.imagesloaded.min.js
+[create] 20:42:44.453 Public: css\font\fontawesome-webfont.ttf
+[create] 20:42:44.454 Public: css\font\fontawesome-webfont.woff
+[create] 20:42:44.456 Public: css\font\fontawesome-webfont.svg
+[create] 20:42:44.456 Public: images\404caring.png
+[create] 20:42:44.457 Public: fancybox\jquery.fancybox.pack.js
+[create] 20:42:44.458 Public: images\aria-yaaw.png
+[create] 20:42:44.459 Public: images\cubie-mongodb.png
+[create] 20:42:44.459 Public: images\endian.png
+[create] 20:42:44.460 Public: images\favicon.ico
+[create] 20:42:44.460 Public: images\mstsc.png
+[create] 20:42:44.461 Public: images\teamviewer_error.png
+[create] 20:42:44.464 Public: css\font\fontawesome-webfont.eot
+[create] 20:42:44.475 Public: images\vi.png
+[create] 20:42:44.476 Public: images\stack-top.png
+[create] 20:42:44.476 Public: images\xmlrpc.png
+[create] 20:42:44.477 Public: images\存储器.gif
+[create] 20:42:44.479 Public: images\project\Html2Article.png
+[create] 20:42:44.480 Public: images\project\fourchess_eat.jpg
+[create] 20:42:44.481 Public: images\project\fourchess.jpg
+[create] 20:42:44.481 Public: images\eclipse_error.png
+[create] 20:42:44.482 Public: images\me\photo.jpg
+[create] 20:42:44.485 Public: css\style.css
+[create] 20:42:44.487 Public: archives\page\2\index.html
+[create] 20:42:44.487 Public: archives\page\8\index.html
+[create] 20:42:44.488 Public: archives\page\9\index.html
+[create] 20:42:44.490 Public: archives\2013\page\3\index.html
+[create] 20:42:44.491 Public: archives\index.html
+[create] 20:42:44.492 Public: archives\page\5\index.html
+[create] 20:42:44.492 Public: archives\page\15\index.html
+[create] 20:42:44.494 Public: archives\page\6\index.html
+[create] 20:42:44.496 Public: archives\page\10\index.html
+[create] 20:42:44.497 Public: archives\page\11\index.html
+[create] 20:42:44.497 Public: archives\page\4\index.html
+[create] 20:42:44.498 Public: archives\page\12\index.html
+[create] 20:42:44.500 Public: archives\page\16\index.html
+[create] 20:42:44.501 Public: archives\page\7\index.html
+[create] 20:42:44.502 Public: archives\page\17\index.html
+[create] 20:42:44.503 Public: archives\page\14\index.html
+[create] 20:42:44.505 Public: archives\page\18\index.html
+[create] 20:42:44.506 Public: archives\page\13\index.html
+[create] 20:42:44.514 Public: archives\page\20\index.html
+[create] 20:42:44.515 Public: archives\page\19\index.html
+[create] 20:42:44.516 Public: archives\2013\page\4\index.html
+[create] 20:42:44.518 Public: archives\page\3\index.html
+[create] 20:42:44.519 Public: archives\page\21\index.html
+[create] 20:42:44.520 Public: archives\2013\index.html
+[create] 20:42:44.520 Public: archives\2013\page\5\index.html
+[create] 20:42:44.523 Public: archives\2013\page\2\index.html
+[create] 20:42:44.523 Public: archives\2013\page\6\index.html
+[create] 20:42:44.524 Public: archives\2013\page\7\index.html
+[create] 20:42:44.525 Public: archives\2013\page\8\index.html
+[create] 20:42:44.528 Public: archives\2013\page\9\index.html
+[create] 20:42:44.529 Public: archives\2013\page\11\index.html
+[create] 20:42:44.529 Public: archives\2013\page\10\index.html
+[create] 20:42:44.530 Public: archives\2013\page\12\index.html
+[create] 20:42:44.533 Public: archives\2013\page\14\index.html
+[create] 20:42:44.533 Public: archives\2013\page\13\index.html
+[create] 20:42:44.534 Public: archives\2013\page\15\index.html
+[create] 20:42:44.537 Public: archives\2013\page\17\index.html
+[create] 20:42:44.559 Public: archives\2013\page\16\index.html
+[create] 20:42:44.560 Public: archives\2013\page\20\index.html
+[create] 20:42:44.560 Public: archives\2013\page\18\index.html
+[create] 20:42:44.561 Public: archives\2013\page\19\index.html
+[create] 20:42:44.563 Public: archives\2013\02\index.html
+[create] 20:42:44.565 Public: archives\2013\01\index.html
+[create] 20:42:44.565 Public: archives\2013\page\21\index.html
+[create] 20:42:44.568 Public: archives\2013\03\index.html
+[create] 20:42:44.581 Public: archives\2013\03\page\2\index.html
+[create] 20:42:44.582 Public: archives\2013\04\index.html
+[create] 20:42:44.582 Public: archives\2013\03\page\4\index.html
+[create] 20:42:44.583 Public: archives\2013\03\page\3\index.html
+[create] 20:42:44.586 Public: archives\2013\04\page\2\index.html
+[create] 20:42:44.586 Public: archives\2013\04\page\3\index.html
+[create] 20:42:44.587 Public: archives\2013\05\index.html
+[create] 20:42:44.587 Public: archives\2013\05\page\2\index.html
+[create] 20:42:44.590 Public: archives\2013\05\page\3\index.html
+[create] 20:42:44.591 Public: archives\2013\06\index.html
+[create] 20:42:44.592 Public: archives\2013\05\page\4\index.html
+[create] 20:42:44.592 Public: archives\2013\05\page\5\index.html
+[create] 20:42:44.595 Public: archives\2013\06\page\2\index.html
+[create] 20:42:44.595 Public: archives\2013\06\page\3\index.html
+[create] 20:42:44.596 Public: archives\2013\07\index.html
+[create] 20:42:44.596 Public: archives\2013\07\page\2\index.html
+[create] 20:42:44.599 Public: archives\2013\08\index.html
+[create] 20:42:44.600 Public: archives\2013\07\page\3\index.html
+[create] 20:42:44.601 Public: archives\2013\09\index.html
+[create] 20:42:44.602 Public: archives\2013\08\page\2\index.html
+[create] 20:42:44.602 Public: categories\人文思考\index.html
+[create] 20:42:44.603 Public: categories\学习\置顶\index.html
+[create] 20:42:44.604 Public: archives\2013\09\page\2\index.html
+[create] 20:42:44.606 Public: categories\工作\index.html
+[create] 20:42:44.607 Public: categories\读书笔记\index.html
+[create] 20:42:44.608 Public: categories\工具\index.html
+[create] 20:42:44.609 Public: categories\学习\项目管理\index.html
+[create] 20:42:44.611 Public: categories\学习\index.html
+[create] 20:42:44.612 Public: categories\问题修复\index.html
+[create] 20:42:44.613 Public: page\4\index.html
+[create] 20:42:44.614 Public: index.html
+[create] 20:42:44.616 Public: page\3\index.html
+[create] 20:42:44.617 Public: page\9\index.html
+[create] 20:42:44.618 Public: page\5\index.html
+[create] 20:42:44.618 Public: page\2\index.html
+[create] 20:42:44.621 Public: page\10\index.html
+[create] 20:42:44.621 Public: page\6\index.html
+[create] 20:42:44.623 Public: page\11\index.html
+[create] 20:42:44.623 Public: page\7\index.html
+[create] 20:42:44.625 Public: page\8\index.html
+[create] 20:42:44.626 Public: page\12\index.html
+[create] 20:42:44.627 Public: page\13\index.html
+[create] 20:42:44.627 Public: page\14\index.html
+[create] 20:42:44.630 Public: page\15\index.html
+[create] 20:42:44.631 Public: page\16\index.html
+[create] 20:42:44.631 Public: page\17\index.html
+[create] 20:42:44.632 Public: page\18\index.html
+[create] 20:42:44.634 Public: projects\index.html
+[create] 20:42:44.635 Public: page\21\index.html
+[create] 20:42:44.636 Public: page\19\index.html
+[create] 20:42:44.636 Public: page\20\index.html
+[create] 20:42:44.637 Public: about\index.html
+[create] 20:42:44.637 Public: 404.html
+[create] 20:42:44.641 Public: 2013\07\28\cubieboard-wifi-config\index.html
+[create] 20:42:44.641 Public: 2013\07\29\nohup-do-not-output-logfile\index.html
+[create] 20:42:44.644 Public: 2013\07\23\htmlagilitypack-cannot-get-form-innerhtml\index.html
+[create] 20:42:44.645 Public: 2013\09\13\make-a-play\index.html
+[create] 20:42:44.645 Public: 2013\07\28\cubieboard-as-download-server\index.html
+[create] 20:42:44.647 Public: 2013\08\02\js-make-regex\index.html
+[create] 20:42:44.648 Public: 2013\07\28\linux-config-samba-to-share-files\index.html
+[create] 20:42:44.649 Public: 2013\08\22\can-not-push-rep-to-heroku\index.html
+[create] 20:42:44.650 Public: 2013\08\21\cpp-const\index.html
+[create] 20:42:44.652 Public: 2013\09\06\plain-to-learn\index.html
+[create] 20:42:44.653 Public: 2013\08\22\csharp-build-xmlrpc-server-without-iis\index.html
+[create] 20:42:44.653 Public: 2013\08\13\csharp-use-synchronizationcontext-update-ui-in-multithreading\index.html
+[create] 20:42:44.654 Public: 2013\09\09\cpp-static\index.html
+[create] 20:42:44.656 Public: 2013\08\27\find-your-place\index.html
+[create] 20:42:44.657 Public: 2013\08\27\csharp-code-review\index.html
+[create] 20:42:44.658 Public: 2013\08\27\sublime-text\index.html
+[create] 20:42:44.658 Public: 2013\07\28\cubieboard-compile-nodejs\index.html
+[create] 20:42:44.661 Public: 2013\09\06\csharp-libraries\index.html
+[create] 20:42:44.662 Public: 2013\07\28\cubieboard-run-mongodb\index.html
+[create] 20:42:44.662 Public: 2013\09\09\nodejs-cluster-express\index.html
+[create] 20:42:44.663 Public: 2013\09\11\nodejs-mysql-connection-lost\index.html
+[create] 20:42:44.664 Public: 2013\09\09\nodejs-unhandled-exception\index.html
+[create] 20:42:44.666 Public: 2013\07\11\use-nunit-with-debug\index.html
+[create] 20:42:44.667 Public: 2013\07\15\solr-match-all-search\index.html
+[create] 20:42:44.668 Public: 2013\09\10\eclipse-is-missing-required-library\index.html
+[create] 20:42:44.668 Public: 2013\07\01\csharp-forcing-free-memory\index.html
+[create] 20:42:44.669 Public: 2013\07\09\background-thread\index.html
+[create] 20:42:44.672 Public: 2013\06\27\charset-encoding\index.html
+[create] 20:42:44.673 Public: 2013\07\08\httpwebrequest-timeout-exception\index.html
+[create] 20:42:44.673 Public: 2013\06\27\csharp-read-data-in-multithread-safely\index.html
+[create] 20:42:44.674 Public: 2013\07\03\download-picture-using-httpwebrequest\index.html
+[create] 20:42:44.677 Public: 2013\06\26\debug-nodejs-app\index.html
+[create] 20:42:44.677 Public: 2013\07\02\solr-add-ikanalyzer-support\index.html
+[create] 20:42:44.678 Public: 2013\06\18\c-where-to-define-var\index.html
+[create] 20:42:44.680 Public: 2013\06\20\to-be-a-better-engineer\index.html
+[create] 20:42:44.681 Public: 2013\06\18\c-memory-alloc\index.html
+[create] 20:42:44.682 Public: 2013\06\17\csharp-unhandled-exception\index.html
+[create] 20:42:44.683 Public: 2013\06\09\big-endian-and-little-endian\index.html
+[create] 20:42:44.686 Public: 2013\06\08\mingw-cygwin\index.html
+[create] 20:42:44.687 Public: 2013\06\07\assembly-register\index.html
+[create] 20:42:44.687 Public: 2013\06\06\linux-nohup\index.html
+[create] 20:42:44.688 Public: 2013\06\06\socket-send-recv\index.html
+[create] 20:42:44.689 Public: 2013\06\05\regex-replace-html-property\index.html
+[create] 20:42:44.691 Public: 2013\05\23\nodejs-deploy-code\index.html
+[create] 20:42:44.691 Public: 2013\06\05\mongodb-copy-data-between-collections\index.html
+[create] 20:42:44.692 Public: 2013\05\30\insert-data-into-sql-server-use-table-value\index.html
+[create] 20:42:44.693 Public: 2013\05\23\csharp-gettime\index.html
+[create] 20:42:44.696 Public: 2013\05\20\win7-debug\index.html
+[create] 20:42:44.696 Public: 2013\05\12\assembly-base\index.html
+[create] 20:42:44.697 Public: 2013\05\11\sqlite-delete-data-use-datetime-string\index.html
+[create] 20:42:44.697 Public: 2013\05\11\excellence-and-normal\index.html
+[create] 20:42:44.699 Public: 2013\05\11\da-gong-si-you-du\index.html
+[create] 20:42:44.700 Public: 2013\05\11\learn-programming\index.html
+[create] 20:42:44.702 Public: 2013\05\11\work-but-not-for-money\index.html
+[create] 20:42:44.702 Public: 2013\05\11\folklore\index.html
+[create] 20:42:44.704 Public: 2013\05\07\mstsc-limit\index.html
+[create] 20:42:44.705 Public: 2013\05\09\mongodb-datetime\index.html
+[create] 20:42:44.705 Public: 2013\05\08\mongodb-delete-document-key\index.html
+[create] 20:42:44.706 Public: 2013\05\07\blogml\index.html
+[create] 20:42:44.709 Public: 2013\05\07\cmmi\index.html
+[create] 20:42:44.709 Public: 2013\05\06\cdn\index.html
+[create] 20:42:44.710 Public: 2013\05\06\use-lambda-in-generic-class\index.html
+[create] 20:42:44.710 Public: 2013\05\06\sdn-and-openflow\index.html
+[create] 20:42:44.713 Public: 2013\04\19\linux-background-job\index.html
+[create] 20:42:44.714 Public: 2013\05\06\linux-permission-denied\index.html
+[create] 20:42:44.714 Public: 2013\05\03\how-to-close-screen-and-lock-pc\index.html
+[create] 20:42:44.715 Public: 2013\05\05\csharp-handle-close-event\index.html
+[create] 20:42:44.719 Public: 2013\04\17\install-pip\index.html
+[create] 20:42:44.719 Public: 2013\04\18\jekyll-2-hexo\index.html
+[create] 20:42:44.721 Public: 2013\04\16\wpf-mulitthread-error\index.html
+[create] 20:42:44.722 Public: 2013\04\14\after-install-centos\index.html
+[create] 20:42:44.723 Public: 2013\04\08\about-product\index.html
+[create] 20:42:44.724 Public: 2013\04\12\delegate-to-an-instance-method-cannot-have-null-this\index.html
+[create] 20:42:44.725 Public: 2013\04\08\use-js-replace-string\index.html
+[create] 20:42:44.726 Public: 2013\04\07\redis-db\index.html
+[create] 20:42:44.728 Public: 2013\04\06\linux-vi-settings\index.html
+[create] 20:42:44.729 Public: 2013\04\05\run-teamviewer8-error-on-centos\index.html
+[create] 20:42:44.729 Public: 2013\04\05\error-while-loading-shared-libraries\index.html
+[create] 20:42:44.730 Public: 2013\04\05\debug-program-with-gdb\index.html
+[create] 20:42:44.732 Public: 2013\04\05\git-pull-error\index.html
+[create] 20:42:44.733 Public: 2013\04\05\install-skype-on-centos\index.html
+[create] 20:42:44.735 Public: 2013\03\31\use-c-parse-file\index.html
+[create] 20:42:44.735 Public: 2013\03\29\swot-pdca-6w2h-etc\index.html
+[create] 20:42:44.737 Public: 2013\03\27\linq-executecommand\index.html
+[create] 20:42:44.739 Public: 2013\03\23\predefined-macros\index.html
+[create] 20:42:44.740 Public: 2013\03\26\game-engine\index.html
+[create] 20:42:44.740 Public: 2013\03\21\merge-data-table\index.html
+[create] 20:42:44.743 Public: 2013\03\17\eclipse-error\index.html
+[create] 20:42:44.743 Public: 2013\03\19\c-handle-sql-server\index.html
+[create] 20:42:44.744 Public: 2013\03\19\upstream-prerequisites\index.html
+[create] 20:42:44.746 Public: 2013\03\18\about-requirement\index.html
+[create] 20:42:44.747 Public: 2013\03\17\tomcat-run-error\index.html
+[create] 20:42:44.748 Public: 2013\03\14\importance-of-prerequisites\index.html
+[create] 20:42:44.749 Public: 2013\03\14\regex\index.html
+[create] 20:42:44.749 Public: 2013\03\11\chosen\index.html
+[create] 20:42:44.750 Public: 2013\03\11\learn-sql\index.html
+[create] 20:42:44.750 Public: 2013\03\08\work-thinking\index.html
+[create] 20:42:44.752 Public: 2013\03\04\linux-welcome\index.html
+[create] 20:42:44.755 Public: 2013\03\01\disable-log4net-log\index.html
+[create] 20:42:44.755 Public: 2013\01\31\fragment\index.html
+[create] 20:42:44.756 Public: 2013\02\28\sqlite-database-error\index.html
+[create] 20:42:44.757 Public: 2013\01\30\jekyll-encoding-problem\index.html
+[create] 20:42:44.760 Public: 2013\01\15\welcome-to-software-construction\index.html
+[create] 20:42:44.761 Public: 2013\01\30\install-redmine\index.html
+[create] 20:42:44.761 Public: tags\项目管理\index.html
+[create] 20:42:44.762 Public: tags\CSharp\index.html
+[create] 20:42:44.763 Public: tags\C\index.html
+[create] 20:42:44.764 Public: tags\cubieboard\index.html
+[create] 20:42:44.765 Public: tags\汇编\index.html
+[create] 20:42:44.766 Public: tags\代码大全\index.html
+[create] 20:42:44.767 Public: tags\C++\index.html
+[create] 20:42:44.767 Public: tags\SQLServer\index.html
+[create] 20:42:44.768 Public: tags\cubieboard2\index.html
+[create] 20:42:44.768 Public: tags\jQuery\index.html
+[create] 20:42:44.769 Public: tags\cpp\index.html
+[create] 20:42:44.769 Public: tags\nodejs\index.html
+[create] 20:42:44.770 Public: tags\rpc\index.html
+[create] 20:42:44.771 Public: tags\gdb\index.html
+[create] 20:42:44.772 Public: tags\游戏引擎\index.html
+[create] 20:42:44.773 Public: tags\log4net\index.html
+[create] 20:42:44.774 Public: tags\Linux\index.html
+[create] 20:42:44.774 Public: tags\Eclipse\index.html
+[create] 20:42:44.775 Public: tags\git\index.html
+[create] 20:42:44.775 Public: tags\python\index.html
+[create] 20:42:44.776 Public: tags\pip\index.html
+[create] 20:42:44.776 Public: tags\Redmine\index.html
+[create] 20:42:44.777 Public: tags\hexo\index.html
+[create] 20:42:44.777 Public: tags\jekyll\index.html
+[create] 20:42:44.778 Public: tags\js\index.html
+[create] 20:42:44.779 Public: tags\linux\index.html
+[create] 20:42:44.780 Public: tags\vi\index.html
+[create] 20:42:44.804 Public: tags\工作\index.html
+[create] 20:42:44.805 Public: tags\Linq\index.html
+[create] 20:42:44.805 Public: tags\SQL\index.html
+[error] 20:42:44.806 { errno: -1,
+  code: 'UNKNOWN',
+  path: 'E:\\网站\\hexoblog\\public\\tags\\MongoDB\\index.html',
+  name: 'HexoError',
+  message: 'File generate failed: tags\\MongoDB\\index.html',
+  stack: undefined }
+[create] 20:42:44.810 Public: tags\C&C++\index.html
+[create] 20:42:44.811 Public: tags\Redis\index.html
+[create] 20:42:44.811 Public: tags\mongodb\index.html
+[create] 20:42:44.812 Public: tags\正则表达式\index.html
+[create] 20:42:44.813 Public: tags\TeamViewer\index.html
+[create] 20:42:44.813 Public: tags\socket\index.html
+[create] 20:42:44.814 Public: tags\Solr\index.html
+[create] 20:42:44.814 Public: tags\sqlite\index.html
+[create] 20:42:44.815 Public: tags\sublime text\index.html

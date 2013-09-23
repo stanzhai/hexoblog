@@ -1,21 +1,26 @@
 menu:
+  Home: /
   Archives: /archives
-  Projects: /projects
-  About: /about
-  GitHub: https://github.com/stanzhai
 
 widgets: 
 - search
 - category
-- tagcloud
-- recent_posts
-- twitter
+- tag
 
-excerpt_link: 阅读全文
+excerpt_link: Read More
 
+twitter:
+  username:
+  show_replies: false
+  tweet_count: 5
 
 addthis:
   enable: true
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
 
 fancybox: true
 

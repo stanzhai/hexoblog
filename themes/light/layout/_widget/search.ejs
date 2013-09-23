@@ -1,9 +1,6 @@
 <div class="search">
-  <form id="search" class="pull-right" enctype="application/x-www-form-urlencoded" method="get" id="cse-search-box" action="http://www.google.com/cse" target="_blank">
-    <input type="search" name="q" results="0" placeholder="<%= __('search') %>"/>
-    <input type="hidden" name="cx" value="010188267663376520215:afr8qibwduq"/>
-    <input type="hidden" name="ie" value="UTF-8"/>
-    
-    <input name="siteurl" type="hidden" value="blog.zhaishidan.cn"><input name="ref" type="hidden" value="blog.zhaishidan.cn"><input name="ss" type="hidden" value="">
+  <form action="//google.com/search" method="get" accept-charset="utf-8">
+    <input type="search" name="q" results="0" placeholder="<%= __('search') %>">
+    <input type="hidden" name="q" value="site:<%- config.url.replace(/^https?:\/\//, '') %>">
   </form>
 </div>
